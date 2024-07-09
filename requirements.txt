@@ -1,0 +1,5 @@
+huggingface-hub
+ipykernel
+pandas
+matplotlib
+wandb
